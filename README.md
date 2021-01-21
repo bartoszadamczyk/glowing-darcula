@@ -1,2 +1,1 @@
-# glowing-darcula
-Glowing Darcula Theme for JetBrains IDEs
+# Glowing Darcula Theme for JetBrains IDEs
