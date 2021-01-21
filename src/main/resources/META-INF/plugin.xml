@@ -14,6 +14,7 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
+        <themeProvider id="422b3461-862a-475a-9cee-1641bccab166" path="/glowing_darcula.theme.json"/>
     </extensions>
 
     <actions>
