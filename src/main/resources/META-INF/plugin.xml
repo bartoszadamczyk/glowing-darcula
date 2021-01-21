@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>com.bartoszadamczyk.glowing-darcula</id>
-    <name>Plugin display name here</name>
+    <name>Glowing Darcula</name>
     <vendor email="opensource@bartoszadamczyk.com" url="http://bartoszadamczyk.com">Bartosz Adamczyk</vendor>
 
     <description><![CDATA[
