@@ -1,9 +1,9 @@
 <scheme name="Glowing Darcula" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2021-01-22T01:12:01</property>
+        <property name="created">2021-01-22T18:36:30</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2020.3.1.0.0</property>
-        <property name="modified">2021-01-22T01:12:38</property>
+        <property name="modified">2021-01-22T18:36:53</property>
         <property name="originalScheme">Glowing Darcula</property>
     </metaInfo>
     <colors>
@@ -11,6 +11,25 @@
         <option name="CARET_ROW_COLOR" value="292929" />
         <option name="DOCUMENTATION_COLOR" value="38393b" />
         <option name="DOC_COMMENT_LINK" value="4397e0" />
+        <option name="FILESTATUS_ADDED" value="64ad39" />
+        <option name="FILESTATUS_COPIED" value="64ad39" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="b5b516" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="b83e25" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="b83e25" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="b83e25" />
+        <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="91c71e" />
+        <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="b5b516" />
+        <option name="FILESTATUS_IDEA_SVN_REPLACED" value="91c71e" />
+        <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
+        <option name="FILESTATUS_MERGED" value="b45dd9" />
+        <option name="FILESTATUS_MODIFIED" value="4397e0" />
+        <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="4397e0" />
+        <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="4397e0" />
+        <option name="FILESTATUS_RENAMED" value="219fa3" />
+        <option name="FILESTATUS_UNKNOWN" value="b83e25" />
+        <option name="FILESTATUS_addedOutside" value="64ad39" />
+        <option name="FILESTATUS_changelistConflict" value="b83e25" />
+        <option name="FILESTATUS_modifiedOutside" value="4397e0" />
         <option name="GUTTER_BACKGROUND" value="292929" />
         <option name="INFORMATION_HINT" value="3e4040" />
         <option name="LINE_NUMBERS_COLOR" value="6c6f73" />
@@ -245,6 +264,12 @@
         <option name="DUPLICATE_FROM_SERVER">
             <value>
                 <option name="BACKGROUND" value="52503a" />
+            </value>
+        </option>
+        <option name="FOLDED_TEXT_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="8c8c8c" />
+                <option name="BACKGROUND" value="333333" />
             </value>
         </option>
         <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
