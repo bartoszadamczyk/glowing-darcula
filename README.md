@@ -2,6 +2,6 @@
 
 ## Todo:
 
+- Line separators
 - File colors
-- Change VCS colors
-- Java Terminal BG to bright
+- VCS code colors
