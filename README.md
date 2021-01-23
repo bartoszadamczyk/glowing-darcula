@@ -2,6 +2,6 @@
 
 ## Todo:
 
-- Line separators
 - File colors
 - VCS code colors
+- SEARCH 

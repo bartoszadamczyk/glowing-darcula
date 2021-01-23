@@ -1,9 +1,9 @@
 <scheme name="Glowing Darcula" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2021-01-22T23:28:14</property>
+        <property name="created">2021-01-23T00:11:08</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2020.3.1.0.0</property>
-        <property name="modified">2021-01-22T23:28:31</property>
+        <property name="modified">2021-01-23T00:11:37</property>
         <property name="originalScheme">Glowing Darcula</property>
     </metaInfo>
     <colors>
@@ -377,6 +377,18 @@
                 <option name="BACKGROUND" value="2f382e" />
             </value>
         </option>
+        <option name="INLINE_PARAMETER_HINT">
+            <value>
+                <option name="FOREGROUND" value="787878" />
+                <option name="BACKGROUND" value="343434" />
+            </value>
+        </option>
+        <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+            <value>
+                <option name="FOREGROUND" value="acacac" />
+                <option name="BACKGROUND" value="323232" />
+            </value>
+        </option>
         <option name="JS.GLOBAL_FUNCTION">
             <value>
                 <option name="FOREGROUND" value="f0a91d" />
@@ -455,6 +467,30 @@
             <value>
                 <option name="FOREGROUND" value="f0a91d" />
                 <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="MARKDOWN_HTML_BLOCK">
+            <value>
+                <option name="FOREGROUND" value="d0d2d6" />
+                <option name="EFFECT_TYPE" value="5" />
+            </value>
+        </option>
+        <option name="MARKDOWN_INLINE_HTML">
+            <value>
+                <option name="FOREGROUND" value="d0d2d6" />
+                <option name="EFFECT_TYPE" value="5" />
+            </value>
+        </option>
+        <option name="MARKDOWN_LIST_ITEM">
+            <value>
+                <option name="FOREGROUND" value="d0d2d6" />
+                <option name="EFFECT_TYPE" value="5" />
+            </value>
+        </option>
+        <option name="MARKDOWN_TEXT">
+            <value>
+                <option name="FOREGROUND" value="d0d2d6" />
+                <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
         <option name="MATCHED_BRACE_ATTRIBUTES">
