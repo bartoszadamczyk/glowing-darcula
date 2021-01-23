@@ -46,12 +46,12 @@
       "hoverBackground": "#00000040"
     },
     "FileColor": {
-      "Yellow": "#423E32",
-      "Green": "#374538",
-      "Blue": "#373D52",
-      "Violet": "#473C4D",
-      "Orange": "#5C4034",
-      "Rose": "#573B43"
+      "Yellow": "#3D382E",
+      "Green": "#313D32",
+      "Blue": "#31374A",
+      "Violet": "#403645",
+      "Orange": "#45332B",
+      "Rose": "#452F35"
     },
     "Link": {
       "activeForeground": "#4397E0",
