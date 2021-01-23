@@ -1,5 +1,7 @@
 # Glowing Darcula Theme for JetBrains IDEs
 
+[Download here!](https://plugins.jetbrains.com/plugin/15905-glowing-darcula)
+
 Glowing Darcula is a high contrast theme, based on the iconic Darcula theme from JetBrains.
 
 Carefully selected bright colors are working great with darkened backgrounds. Glowing Darcula Theme is excellent for 
@@ -104,8 +106,9 @@ blue accents to your Editor Tabs, Progress Bar and Buttons.
 
 Copyright (c) 2021 Bartosz Adamczyk
 
-This [repository](https://github.com/bartoszadamczyk/glowing-darcula) and the plugin is licensed under
-the [MIT License](LICENSE).
+This [repository](https://github.com/bartoszadamczyk/glowing-darcula) and the 
+[plugin](https://plugins.jetbrains.com/plugin/15905-glowing-darcula) 
+is licensed under the [MIT License](LICENSE).
 
 ### HighContrast Theme files
 
