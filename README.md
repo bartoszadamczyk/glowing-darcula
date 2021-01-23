@@ -20,7 +20,7 @@ Tabs, Progress Bar and Buttons.
 | Green         | ![#6A8759](https://via.placeholder.com/15/6A8759/000000?text=+) `#6A8759` | ![#91C71E](https://via.placeholder.com/15/91C71E/000000?text=+) `#91C71E` |
 | Docs Green    | ![#629755](https://via.placeholder.com/15/629755/000000?text=+) `#629755` | ![#64AD39](https://via.placeholder.com/15/64AD39/000000?text=+) `#64AD39` |
 
-### Grey scale
+### Greyscale colors
 
 | Name          | Darcula   | Glowing Darcula |
 |---------------|:---------:|:---------------:|
@@ -82,13 +82,29 @@ Tabs, Progress Bar and Buttons.
 - Test on Windows
 - Publish!
 - Share with friends
-  
+
 
 - VCS code colors
 - Search colors
 - Console colors
+- Different color for HCL Blue?
 - Glowing Darcula Plus? -> Local JS Variable - Bright
   Blue ![#66D9EF](https://via.placeholder.com/15/66D9EF/000000?text=+) `#66D9EF`?
 - Also cool colors from VSCode:
     - ![#F92672](https://via.placeholder.com/15/F92672/000000?text=+) `#F92672`
     - ![#AE0E46](https://via.placeholder.com/15/AE0E46/000000?text=+) `#AE0E46`
+
+## Legal bit
+
+Copyright (c) 2021 Bartosz Adamczyk
+
+This [repository](https://github.com/bartoszadamczyk/glowing-darcula) and the plugin is licensed under
+the [MIT License](LICENSE).
+
+This repository contains a copy of the HighContrast Theme files together with the `LICENSE.txt` file in
+[high-contrast-theme-jetbrains](high-contrast-theme-jetbrains) directory provided by JetBrains in 
+[JetBrains/intellij-community repository](https://github.com/JetBrains/intellij-community/tree/master/platform/platform-resources/src/themes)
+originally licensed under the 
+[Apache License 2.0](https://github.com/JetBrains/intellij-community/blob/master/LICENSE.txt).
+
+HighContrast Theme files are used for reference, and they are not a part of the Glowing Darcula Theme Plugin.
