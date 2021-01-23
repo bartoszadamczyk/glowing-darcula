@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.bartoszadamczyk.glowing-darcula</id>
     <name>Glowing Darcula</name>
-    <vendor email="opensource@bartoszadamczyk.com" url="http://bartoszadamczyk.com">Bartosz Adamczyk</vendor>
+    <vendor url="http://bartoszadamczyk.com">Bartosz Adamczyk</vendor>
 
     <description><![CDATA[
     <b>Glowing Darcula<b> is a high contrast theme, based on the iconic Darcula theme from JetBrains.<br><br>
@@ -9,8 +9,12 @@
     for sunny days when you work outside or close to the window. The theme provides a smaller contrast between the dark
     mode editor and other light windows, outside the IDE. Thoroughly implemented with attention to details provides
     a stable addition to your favourite IDE. In addition to improving almost every single colour, Glowing Darcula brings
-    beautiful blue accents to your Editor Tabs, Progress Bar and Buttons.
+    beautiful blue accents to your Editor Tabs, Progress Bar and Buttons.<br><br><br>
+
+    Icons made by https://www.freepik.com/ from https://www.flaticon.com/
     ]]></description>
+
+    <version>1.0.0</version>
 
     <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
          on how to target different products -->

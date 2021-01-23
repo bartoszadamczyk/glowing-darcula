@@ -70,9 +70,18 @@ Tabs, Progress Bar and Buttons.
 | String        | ![#6A8759](https://via.placeholder.com/15/6A8759/000000?text=+) `#6A8759` | ![#91C71E](https://via.placeholder.com/15/91C71E/000000?text=+) `#91C71E` |
 | Number        | ![#6897BB](https://via.placeholder.com/15/6897BB/000000?text=+) `#6897BB` | ![#4397E0](https://via.placeholder.com/15/4397E0/000000?text=+) `#4397E0` |
 
+## Useful links:
+
+- [Intro to Custom UI Themes](https://plugins.jetbrains.com/docs/intellij/themes-intro.html)
+- [Getting Started with Gradle](https://plugins.jetbrains.com/docs/intellij/gradle-prerequisites.html)
+- [About JetBrains Marketplace](https://plugins.jetbrains.com/docs/marketplace/about-marketplace.html)
+- [Plugin Configuration File - plugin.xml](https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html)
+- [Plugin Logo](https://plugins.jetbrains.com/docs/intellij/plugin-icon-file.html)
+
+
+
 ## TODO:
 
-- Legal Bit
 - Screenshots
 - Logo
 - All meta data (repo link etc)
@@ -101,6 +110,8 @@ Copyright (c) 2021 Bartosz Adamczyk
 This [repository](https://github.com/bartoszadamczyk/glowing-darcula) and the plugin is licensed under
 the [MIT License](LICENSE).
 
+### HighContrast Theme files
+
 This repository contains a copy of the HighContrast Theme files together with the `LICENSE.txt` file in
 [high-contrast-theme-jetbrains](high-contrast-theme-jetbrains) directory provided by JetBrains in 
 [JetBrains/intellij-community repository](https://github.com/JetBrains/intellij-community/tree/master/platform/platform-resources/src/themes)
@@ -108,3 +119,7 @@ originally licensed under the
 [Apache License 2.0](https://github.com/JetBrains/intellij-community/blob/master/LICENSE.txt).
 
 HighContrast Theme files are used for reference, and they are not a part of the Glowing Darcula Theme Plugin.
+
+### Plugin icon
+
+Icons made by [Freepik](https://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com/)
