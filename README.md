@@ -4,7 +4,7 @@ Glowing Darcula is a high contrast theme, based on the iconic Darcula theme from
 colours are working great with darkened backgrounds. Glowing Darcula Theme is excellent for sunny days when you work
 outside or close to the window. The theme provides a smaller contrast between the dark mode editor and other light
 windows, outside the IDE. Thoroughly implemented with attention to details provides a stable addition to your favourite
-IDE. In addition to improving almost every single colour, Glowing Darculs brings beautiful blue accents to your Editor
+IDE. In addition to improving almost every single colour, Glowing Darcula brings beautiful blue accents to your Editor
 Tabs, Progress Bar and Buttons.
 
 ## Colors
@@ -79,9 +79,17 @@ Tabs, Progress Bar and Buttons.
 
 ## Todo:
 
+- Screenshots
+- Logo
+- All meta data (repo link etc)
+- Re check the code
+- Publish!
+- Share with friends
+  
+
 - VCS code colors
 - Search colors
-- Glowing Dracula Plus? -> Local JS Variable - Bright
+- Glowing Darcula Plus? -> Local JS Variable - Bright
   Blue ![#66D9EF](https://via.placeholder.com/15/66D9EF/000000?text=+) `#66D9EF`?
 - Also cool colors from VSCode:
     - ![#F92672](https://via.placeholder.com/15/F92672/000000?text=+) `#F92672`
