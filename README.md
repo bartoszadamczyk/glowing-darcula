@@ -77,22 +77,22 @@ Tabs, Progress Bar and Buttons.
 - [About JetBrains Marketplace](https://plugins.jetbrains.com/docs/marketplace/about-marketplace.html)
 - [Plugin Configuration File - plugin.xml](https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html)
 - [Plugin Logo](https://plugins.jetbrains.com/docs/intellij/plugin-icon-file.html)
-
+- [Custom Pages](https://plugins.jetbrains.com/docs/marketplace/custom-pages.html)
+- [Embeddable Content](https://plugins.jetbrains.com/docs/marketplace/embeddable-content.html#including-iframe)
 
 
 ## TODO:
 
 - Screenshots
-- Logo
-- All meta data (repo link etc)
-- Release notes
 - Re check the code
 - Run verify
 - Test on Windows
 - Publish!
+- Custom pages
 - Share with friends
 
 
+- Release notes
 - VCS code colors
 - Search colors
 - Console colors
