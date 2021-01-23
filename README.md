@@ -84,10 +84,8 @@ blue accents to your Editor Tabs, Progress Bar and Buttons.
 
 ## TODO:
 
-- Re check the code
-- Run verify
-- Test on Windows
 - Publish!
+- Upload screenshots
 - Custom pages
 - Share with friends
 

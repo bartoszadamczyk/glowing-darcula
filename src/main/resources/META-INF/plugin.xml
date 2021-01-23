@@ -4,7 +4,7 @@
     <vendor url="http://bartoszadamczyk.com">Bartosz Adamczyk</vendor>
 
     <description><![CDATA[
-    Glowing Darcula is a high contrast theme, based on the iconic Darcula theme from JetBrains.<br><br>
+    Adding a high contrast theme, based on the Darcula theme from JetBrains.<br><br>
 
     Carefully selected bright colours are working great with darkened backgrounds. Glowing Darcula Theme is excellent
     for sunny days when you work outside or close to the window. The theme provides a smaller contrast between the dark
@@ -20,7 +20,7 @@
     <change-notes><![CDATA[
     <b>1.0.0</b>
     <ul>
-        <li>First version of the Plugin</li>
+        <li>First version of the plugin!</li>
     </ul>
     ]]>
     </change-notes>
