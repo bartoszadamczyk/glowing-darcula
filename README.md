@@ -1,7 +1,7 @@
 # Glowing Darcula Theme for JetBrains IDEs
 
 Glowing Darcula is a high contrast theme, based on the iconic Darcula theme from JetBrains. Carefully selected bright
-colours are working great with darkened backgrounds. Glowing Darcula Theme is excellent for sunny days when you work
+colors are working great with darkened backgrounds. Glowing Darcula Theme is excellent for sunny days when you work
 outside or close to the window. The theme provides a smaller contrast between the dark mode editor and other light
 windows, outside the IDE. Thoroughly implemented with attention to details provides a stable addition to your favourite
 IDE. In addition to improving almost every single colour, Glowing Darcula brings beautiful blue accents to your Editor
@@ -89,6 +89,7 @@ Tabs, Progress Bar and Buttons.
 
 - VCS code colors
 - Search colors
+- Console colors
 - Glowing Darcula Plus? -> Local JS Variable - Bright
   Blue ![#66D9EF](https://via.placeholder.com/15/66D9EF/000000?text=+) `#66D9EF`?
 - Also cool colors from VSCode:
