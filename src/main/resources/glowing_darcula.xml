@@ -1,9 +1,9 @@
 <scheme name="Glowing Darcula" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2021-01-23T00:11:08</property>
+        <property name="created">2021-01-23T13:22:52</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2020.3.1.0.0</property>
-        <property name="modified">2021-01-23T00:11:37</property>
+        <property name="modified">2021-01-23T13:23:08</property>
         <property name="originalScheme">Glowing Darcula</property>
     </metaInfo>
     <colors>
@@ -623,7 +623,7 @@
         </option>
         <option name="TYPO">
             <value>
-                <option name="EFFECT_COLOR" value="91c71e" />
+                <option name="EFFECT_COLOR" value="64ad39" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
