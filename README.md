@@ -12,7 +12,7 @@ Tabs, Progress Bar and Buttons.
 ### Basic Colors
 
 | Name          | Darcula   | Glowing Darcula |
-|--------------:|-----------|-----------------|
+|---------------|:---------:|:---------------:|
 | Purple        | ![#9876AA](https://via.placeholder.com/15/9876AA/000000?text=+) `#9876AA` | ![#B45DD9](https://via.placeholder.com/15/B45DD9/000000?text=+) `#B45DD9` |
 | Orange        | ![#CC7832](https://via.placeholder.com/15/CC7832/000000?text=+) `#CC7832` | ![#F18622](https://via.placeholder.com/15/F18622/000000?text=+) `#F18622` |
 | Yellow        | ![#FFC66D](https://via.placeholder.com/15/FFC66D/000000?text=+) `#FFC66D` | ![#F0A91D](https://via.placeholder.com/15/F0A91D/000000?text=+) `#F0A91D` |
@@ -22,8 +22,8 @@ Tabs, Progress Bar and Buttons.
 
 ### Greys
 
-| Name           | Darcula   | Glowing Darcula |
-|--------------:|-----------|-----------------|
+| Name          | Darcula   | Glowing Darcula |
+|---------------|:---------:|:---------------:|
 | White         | ![#A9B7C6](https://via.placeholder.com/15/A9B7C6/000000?text=+) `#A9B7C6` | ![#D0D2D6](https://via.placeholder.com/15/D0D2D6/000000?text=+) `#D0D2D6` |
 | Comment       | ![#808080](https://via.placeholder.com/15/808080/000000?text=+) `#808080` | ![#8C8C8C](https://via.placeholder.com/15/8C8C8C/000000?text=+) `#8C8C8C` |
 | Editor BG     | ![#2B2B2B](https://via.placeholder.com/15/2B2B2B/000000?text=+) `#2B2B2B` | ![#1F2021](https://via.placeholder.com/15/1F2021/000000?text=+) `#1F2021` |
@@ -31,7 +31,7 @@ Tabs, Progress Bar and Buttons.
 ### Python Related
 
 | Name          | Darcula   | Glowing Darcula |
-|--------------:|-----------|-----------------|
+|---------------|:---------:|:---------------:|
 | Decorator     | ![#BBB529](https://via.placeholder.com/15/BBB529/000000?text=+) `#BBB529` | ![#DAD433](https://via.placeholder.com/15/DAD433/000000?text=+) `#DAD433` |
 | Keyword arg.  | ![#AA4926](https://via.placeholder.com/15/AA4926/000000?text=+) `#AA4926` | ![#B83E25](https://via.placeholder.com/15/B83E25/000000?text=+) `#B83E25` |
 | Built in name | ![#8888C6](https://via.placeholder.com/15/8888C6/000000?text=+) `#8888C6` | ![#8078FF](https://via.placeholder.com/15/8078FF/000000?text=+) `#8078FF` |
@@ -40,14 +40,14 @@ Tabs, Progress Bar and Buttons.
 ### Other
 
 | Name          | Darcula   | Glowing Darcula |
-|--------------:|-----------|-----------------|
+|---------------|:---------:|:---------------:|
 | Decorator     | ![#BBB529](https://via.placeholder.com/15/BBB529/000000?text=+) `#BBB529` | ![#DAD433](https://via.placeholder.com/15/DAD433/000000?text=+) `#DAD433` |
 | Keyword arg.  | ![#AA4926](https://via.placeholder.com/15/AA4926/000000?text=+) `#AA4926` | ![#B83E25](https://via.placeholder.com/15/B83E25/000000?text=+) `#B83E25` |
 
 ### Other
 
 | Name              | Darcula   | Glowing Darcula |
-|------------------:|-----------|-----------------|
+|-------------------|:---------:|:---------------:|
 | Todo              | ![#A8C023](https://via.placeholder.com/15/A8C023/000000?text=+) `#A8C023` | ![#ABC72A](https://via.placeholder.com/15/ABC72A/000000?text=+) `#ABC72A` |
 | Ignored           | ![#848504](https://via.placeholder.com/15/848504/000000?text=+) `#848504` | ![#B5B516](https://via.placeholder.com/15/B5B516/000000?text=+) `#B5B516` |
 | Kotlin Type param | ![#20999D](https://via.placeholder.com/15/20999D/000000?text=+) `#20999D` | ![#219FA3](https://via.placeholder.com/15/219FA3/000000?text=+) `#219FA3` |
@@ -58,7 +58,7 @@ Tabs, Progress Bar and Buttons.
 ### FileColor
 
 | Name          | Darcula   | Glowing Darcula |
-|--------------:|-----------|-----------------|
+|---------------|:---------:|:---------------:|
 | Yellow        | ![#4F4B41](https://via.placeholder.com/15/4F4B41/000000?text=+) `#4F4B41` | ![#3D382E](https://via.placeholder.com/15/3D382E/000000?text=+) `#3D382E` |
 | Green         | ![#49544A](https://via.placeholder.com/15/49544A/000000?text=+) `#49544A` | ![#313D32](https://via.placeholder.com/15/313D32/000000?text=+) `#313D32` |
 | Blue          | ![#4F556B](https://via.placeholder.com/15/4F556B/000000?text=+) `#4F556B` | ![#31374A](https://via.placeholder.com/15/31374A/000000?text=+) `#31374A` |
@@ -69,7 +69,7 @@ Tabs, Progress Bar and Buttons.
 ### User-Defined File Types
 
 | Name          | Darcula   | Glowing Darcula |
-|--------------:|-----------|-----------------|
+|---------------|:---------:|:---------------:|
 | aKeyword1     | ![#CC7832](https://via.placeholder.com/15/CC7832/000000?text=+) `#CC7832` | ![#F18622](https://via.placeholder.com/15/F18622/000000?text=+) `#F18622` |
 | aKeyword2     | ![#AB51BA](https://via.placeholder.com/15/AB51BA/000000?text=+) `#AB51BA` | ![#B45DD9](https://via.placeholder.com/15/B45DD9/000000?text=+) `#B45DD9` |
 | aKeyword3     | ![#0F9795](https://via.placeholder.com/15/0F9795/000000?text=+) `#0F9795` | ![#0F9795](https://via.placeholder.com/15/0F9795/000000?text=+) `#0F9795` |
