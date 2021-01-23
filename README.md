@@ -9,7 +9,7 @@ Tabs, Progress Bar and Buttons.
 
 ## Colors
 
-### Basic Colors
+### Basic colors
 
 | Name          | Darcula   | Glowing Darcula |
 |---------------|:---------:|:---------------:|
@@ -20,7 +20,7 @@ Tabs, Progress Bar and Buttons.
 | Green         | ![#6A8759](https://via.placeholder.com/15/6A8759/000000?text=+) `#6A8759` | ![#91C71E](https://via.placeholder.com/15/91C71E/000000?text=+) `#91C71E` |
 | Docs Green    | ![#629755](https://via.placeholder.com/15/629755/000000?text=+) `#629755` | ![#64AD39](https://via.placeholder.com/15/64AD39/000000?text=+) `#64AD39` |
 
-### Greys
+### Grey scale
 
 | Name          | Darcula   | Glowing Darcula |
 |---------------|:---------:|:---------------:|
@@ -28,7 +28,7 @@ Tabs, Progress Bar and Buttons.
 | Comment       | ![#808080](https://via.placeholder.com/15/808080/000000?text=+) `#808080` | ![#8C8C8C](https://via.placeholder.com/15/8C8C8C/000000?text=+) `#8C8C8C` |
 | Editor BG     | ![#2B2B2B](https://via.placeholder.com/15/2B2B2B/000000?text=+) `#2B2B2B` | ![#1F2021](https://via.placeholder.com/15/1F2021/000000?text=+) `#1F2021` |
 
-### Python Related
+### Python related
 
 | Name          | Darcula   | Glowing Darcula |
 |---------------|:---------:|:---------------:|
@@ -36,13 +36,6 @@ Tabs, Progress Bar and Buttons.
 | Keyword arg.  | ![#AA4926](https://via.placeholder.com/15/AA4926/000000?text=+) `#AA4926` | ![#B83E25](https://via.placeholder.com/15/B83E25/000000?text=+) `#B83E25` |
 | Built in name | ![#8888C6](https://via.placeholder.com/15/8888C6/000000?text=+) `#8888C6` | ![#8078FF](https://via.placeholder.com/15/8078FF/000000?text=+) `#8078FF` |
 | Special names | ![#B200B2](https://via.placeholder.com/15/B200B2/000000?text=+) `#B200B2` | ![#B50EB5](https://via.placeholder.com/15/B50EB5/000000?text=+) `#B50EB5` |
-
-### Other
-
-| Name          | Darcula   | Glowing Darcula |
-|---------------|:---------:|:---------------:|
-| Decorator     | ![#BBB529](https://via.placeholder.com/15/BBB529/000000?text=+) `#BBB529` | ![#DAD433](https://via.placeholder.com/15/DAD433/000000?text=+) `#DAD433` |
-| Keyword arg.  | ![#AA4926](https://via.placeholder.com/15/AA4926/000000?text=+) `#AA4926` | ![#B83E25](https://via.placeholder.com/15/B83E25/000000?text=+) `#B83E25` |
 
 ### Other
 
@@ -77,12 +70,16 @@ Tabs, Progress Bar and Buttons.
 | String        | ![#6A8759](https://via.placeholder.com/15/6A8759/000000?text=+) `#6A8759` | ![#91C71E](https://via.placeholder.com/15/91C71E/000000?text=+) `#91C71E` |
 | Number        | ![#6897BB](https://via.placeholder.com/15/6897BB/000000?text=+) `#6897BB` | ![#4397E0](https://via.placeholder.com/15/4397E0/000000?text=+) `#4397E0` |
 
-## Todo:
+## TODO:
 
+- Legal Bit
 - Screenshots
 - Logo
 - All meta data (repo link etc)
+- Release notes
 - Re check the code
+- Run verify
+- Test on Windows
 - Publish!
 - Share with friends
   
