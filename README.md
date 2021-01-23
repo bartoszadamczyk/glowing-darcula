@@ -2,6 +2,5 @@
 
 ## Todo:
 
-- File colors
 - VCS code colors
-- SEARCH 
+- Search colors

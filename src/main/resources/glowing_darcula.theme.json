@@ -11,7 +11,8 @@
       "selectionBackground": "#2A5E8C",
       "selectionForeground": "#D0D2D6",
       "selectionInactiveBackground": "#1A3A57",
-      "selectionBackgroundInactive": "#1A3A57"
+      "selectionBackgroundInactive": "#1A3A57",
+      "separatorColor": "303030"
     },
     "ActionButton": {
       "hoverBackground": "#36383B",
@@ -43,6 +44,14 @@
       "inactiveUnderlineColor": "#4397E0",
       "underlinedTabBackground": "#343538",
       "hoverBackground": "#00000040"
+    },
+    "FileColor": {
+      "Yellow": "#423E32",
+      "Green": "#374538",
+      "Blue": "#373D52",
+      "Violet": "#473C4D",
+      "Orange": "#5C4034",
+      "Rose": "#573B43"
     },
     "Link": {
       "activeForeground": "#4397E0",
