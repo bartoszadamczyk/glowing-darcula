@@ -10,6 +10,8 @@ editor and other light windows, outside the IDE. Thoroughly implemented with att
 addition to your favourite IDE. In addition to improving almost every single colour, Glowing Darcula brings beautiful 
 blue accents to your Editor Tabs, Progress Bar and Buttons.
 
+![Screenshot of the editor](screenshots/1_tsx.png)
+
 ## Colors
 
 ### Basic colors
