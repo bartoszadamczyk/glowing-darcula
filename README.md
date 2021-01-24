@@ -92,6 +92,7 @@ blue accents to your Editor Tabs, Progress Bar and Buttons.
 - [ ] Share with friends
 
 
+- [ ] Make SQL diagrams darker
 - [ ] VCS code colors
 - [ ] Search colors
 - [ ] Console colors
