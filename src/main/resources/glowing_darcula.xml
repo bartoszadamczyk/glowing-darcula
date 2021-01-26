@@ -628,6 +628,16 @@
                 <option name="FOREGROUND" value="8c8c8c" />
             </value>
         </option>
+        <option name="REST.FIXED">
+            <value>
+                <option name="BACKGROUND" value="a3609" />
+            </value>
+        </option>
+        <option name="REST.INTERPRETED">
+            <value>
+                <option name="BACKGROUND" value="123b33" />
+            </value>
+        </option>
         <option name="SASS_VARIABLE">
             <value>
                 <option name="FOREGROUND" value="4397e0" />
