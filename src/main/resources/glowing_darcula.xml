@@ -3,13 +3,16 @@
         <property name="created">2021-01-23T13:22:52</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2020.3.1.0.0</property>
-        <property name="modified">2021-01-23T13:23:08</property>
+        <property name="modified">2021-01-26T13:37:14</property>
         <property name="originalScheme">Glowing Darcula</property>
     </metaInfo>
     <colors>
         <option name="CARET_COLOR" value="c2c2c2" />
         <option name="CARET_ROW_COLOR" value="292929" />
         <option name="CONSOLE_BACKGROUND_KEY" value="1f2021" />
+        <option name="DIAGRAM_NODE_BACKGROUND" value="2d2f30" />
+        <option name="DIAGRAM_NODE_HEADER" value="292929" />
+        <option name="DIAGRAM_NOTE_BACKGROUND" value="3d4040" />
         <option name="DOCUMENTATION_COLOR" value="38393b" />
         <option name="DOC_COMMENT_LINK" value="4397e0" />
         <option name="FILESTATUS_ADDED" value="64ad39" />
