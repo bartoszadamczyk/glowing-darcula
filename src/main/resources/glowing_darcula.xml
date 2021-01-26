@@ -732,9 +732,113 @@
                 <option name="BACKGROUND" value="123b33" />
             </value>
         </option>
+        <option name="RUBY_CONSTANT_DECLARATION">
+            <value>
+                <option name="FOREGROUND" value="ffc466" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="RUBY_ESCAPE_SEQUENCE">
+            <value>
+                <option name="FOREGROUND" value="f18622" />
+            </value>
+        </option>
+        <option name="RUBY_HEREDOC_CONTENT">
+            <value>
+                <option name="FOREGROUND" value="9da651" />
+            </value>
+        </option>
+        <option name="RUBY_HEREDOC_ID">
+            <value>
+                <option name="FOREGROUND" value="9da651" />
+                <option name="EFFECT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="RUBY_INVALID_ESCAPE_SEQUENCE">
+            <value>
+                <option name="FOREGROUND" value="9da651" />
+                <option name="EFFECT_COLOR" value="ff0000" />
+                <option name="EFFECT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="RUBY_LOCAL_VAR_ID">
+            <value>
+                <option name="FOREGROUND" value="dbb51d" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="RUBY_METHOD_NAME">
+            <value>
+                <option name="FOREGROUND" value="ffc466" />
+            </value>
+        </option>
+        <option name="RUBY_NUMBER" baseAttributes="DEFAULT_NUMBER" />
+        <option name="RUBY_PARAMETER_ID">
+            <value>
+                <option name="FOREGROUND" value="dbb51d" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="RUBY_REGEXP">
+            <value>
+                <option name="FOREGROUND" value="9da651" />
+            </value>
+        </option>
+        <option name="RUBY_SYMBOL">
+            <value>
+                <option name="FOREGROUND" value="6e9cbe" />
+            </value>
+        </option>
+        <option name="RUBY_WORDS">
+            <value>
+                <option name="FOREGROUND" value="9da651" />
+            </value>
+        </option>
         <option name="SASS_VARIABLE">
             <value>
                 <option name="FOREGROUND" value="4397e0" />
+            </value>
+        </option>
+        <option name="SLIM_CLASS">
+            <value>
+                <option name="FOREGROUND" value="f18622" />
+            </value>
+        </option>
+        <option name="SLIM_DOCTYPE_KWD">
+            <value>
+                <option name="FOREGROUND" value="f18622" />
+            </value>
+        </option>
+        <option name="SLIM_FILTER">
+            <value>
+                <option name="FOREGROUND" value="91c71e" />
+            </value>
+        </option>
+        <option name="SLIM_INTERPOLATION">
+            <value>
+                <option name="FOREGROUND" value="f18622" />
+            </value>
+        </option>
+        <option name="SLIM_STATIC_CONTENT" baseAttributes="TEXT" />
+        <option name="SLIM_STRING_INTERPOLATED">
+            <value>
+                <option name="FOREGROUND" value="91c71e" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="SLIM_TAG">
+            <value>
+                <option name="FOREGROUND" value="f18622" />
+            </value>
+        </option>
+        <option name="SLIM_TAG_ATTR_KEY">
+            <value>
+                <option name="FOREGROUND" value="f18622" />
+            </value>
+        </option>
+        <option name="SLIM_TAG_START">
+            <value>
+                <option name="FOREGROUND" value="f18622" />
             </value>
         </option>
         <option name="Static method access">
