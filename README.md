@@ -75,16 +75,6 @@ blue accents to your Editor Tabs, Progress Bar and Buttons.
 | String        | ![#6A8759](https://via.placeholder.com/15/6A8759/000000?text=+) `#6A8759` | ![#91C71E](https://via.placeholder.com/15/91C71E/000000?text=+) `#91C71E` |
 | Number        | ![#6897BB](https://via.placeholder.com/15/6897BB/000000?text=+) `#6897BB` | ![#4397E0](https://via.placeholder.com/15/4397E0/000000?text=+) `#4397E0` |
 
-## Useful links:
-
-- [Intro to Custom UI Themes](https://plugins.jetbrains.com/docs/intellij/themes-intro.html)
-- [Getting Started with Gradle](https://plugins.jetbrains.com/docs/intellij/gradle-prerequisites.html)
-- [About JetBrains Marketplace](https://plugins.jetbrains.com/docs/marketplace/about-marketplace.html)
-- [Plugin Configuration File - plugin.xml](https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html)
-- [Plugin Logo](https://plugins.jetbrains.com/docs/intellij/plugin-icon-file.html)
-- [Custom Pages](https://plugins.jetbrains.com/docs/marketplace/custom-pages.html)
-- [Embeddable Content](https://plugins.jetbrains.com/docs/marketplace/embeddable-content.html#including-iframe)
-
 ## Legal bit
 
 Copyright (c) 2021 Bartosz Adamczyk
