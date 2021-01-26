@@ -267,6 +267,13 @@
                 <option name="BACKGROUND" value="52503a" />
             </value>
         </option>
+        <option name="ERRORS_ATTRIBUTES">
+            <value>
+                <option name="EFFECT_COLOR" value="c2312f" />
+                <option name="ERROR_STRIPE_COLOR" value="9e2927" />
+                <option name="EFFECT_TYPE" value="2" />
+            </value>
+        </option>
         <option name="FOLDED_TEXT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="8c8c8c" />
@@ -726,6 +733,11 @@
                 <option name="BACKGROUND" value="403e2e" />
                 <option name="ERROR_STRIPE_COLOR" value="be9117" />
                 <option name="EFFECT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="WRONG_REFERENCES_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="c2312f" />
             </value>
         </option>
         <option name="XML_ATTRIBUTE_NAME">
