@@ -293,6 +293,73 @@
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
+        <option name="GO_BLOCK_COMMENT" baseAttributes="DEFAULT_BLOCK_COMMENT" />
+        <option name="GO_BUILTIN_CONSTANT">
+            <value>
+                <option name="FOREGROUND" value="f18622" />
+            </value>
+        </option>
+        <option name="GO_BUILTIN_FUNCTION_CALL">
+            <value>
+                <option name="FOREGROUND" value="f18622" />
+            </value>
+        </option>
+        <option name="GO_BUILTIN_TYPE_REFERENCE">
+            <value>
+                <option name="FOREGROUND" value="f18622" />
+            </value>
+        </option>
+        <option name="GO_BUILTIN_VARIABLE">
+            <value>
+                <option name="FOREGROUND" value="f18622" />
+            </value>
+        </option>
+        <option name="GO_EXPORTED_FUNCTION">
+            <value>
+                <option name="FOREGROUND" value="f0a91d" />
+            </value>
+        </option>
+        <option name="GO_EXPORTED_FUNCTION_CALL">
+            <value>
+                <option name="FOREGROUND" value="bf923d" />
+            </value>
+        </option>
+        <option name="GO_KEYWORD">
+            <value>
+                <option name="FOREGROUND" value="f18622" />
+            </value>
+        </option>
+        <option name="GO_LINE_COMMENT" baseAttributes="DEFAULT_LINE_COMMENT" />
+        <option name="GO_LOCAL_FUNCTION">
+            <value>
+                <option name="FOREGROUND" value="f0a91d" />
+            </value>
+        </option>
+        <option name="GO_LOCAL_FUNCTION_CALL">
+            <value>
+                <option name="FOREGROUND" value="bf923d" />
+            </value>
+        </option>
+        <option name="GO_METHOD_RECEIVER">
+            <value>
+                <option name="FOREGROUND" value="4397e0" />
+            </value>
+        </option>
+        <option name="GO_PACKAGE">
+            <value>
+                <option name="FOREGROUND" value="a3ba5f" />
+            </value>
+        </option>
+        <option name="GO_SHADOWING_VARIABLE">
+            <value>
+                <option name="FOREGROUND" value="78c2a3" />
+            </value>
+        </option>
+        <option name="GO_TYPE_REFERENCE">
+            <value>
+                <option name="FOREGROUND" value="219fa3" />
+            </value>
+        </option>
         <option name="HAML_CLASS">
             <value>
                 <option name="FOREGROUND" value="f0a91d" />
@@ -783,6 +850,22 @@
         <option name="YAML_ANCHOR">
             <value>
                 <option name="FOREGROUND" value="f0a91d" />
+            </value>
+        </option>
+        <option name="com.plan9.IDENTIFIER">
+            <value>
+                <option name="FOREGROUND" value="219fa3" />
+            </value>
+        </option>
+        <option name="com.plan9.PSEUDO_INSTRUCTION">
+            <value>
+                <option name="FOREGROUND" value="8f7da1" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="com.plan9.REGISTER">
+            <value>
+                <option name="FOREGROUND" value="c46d1b" />
             </value>
         </option>
     </attributes>
