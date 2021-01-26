@@ -584,6 +584,22 @@
                 <option name="FOREGROUND" value="b45dd9" />
             </value>
         </option>
+        <option name="REGEXP.BRACES">
+            <value>
+                <option name="FOREGROUND" value="f0a91d" />
+            </value>
+        </option>
+        <option name="REGEXP.BRACKETS">
+            <value>
+                <option name="FOREGROUND" value="f0a91d" />
+            </value>
+        </option>
+        <option name="REGEXP.CHAR_CLASS">
+            <value>
+                <option name="FOREGROUND" value="f0a91d" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
         <option name="REGEXP.ESC_CHARACTER">
             <value>
                 <option name="FOREGROUND" value="f18622" />
@@ -594,6 +610,11 @@
             <value>
                 <option name="FOREGROUND" value="f18622" />
                 <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="REGEXP.PARENTHS">
+            <value>
+                <option name="FOREGROUND" value="f0a91d" />
             </value>
         </option>
         <option name="REGEXP.QUOTE_CHARACTER">
