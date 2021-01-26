@@ -13,9 +13,14 @@
     beautiful blue accents to your Editor Tabs, Progress Bar and Buttons.
     ]]></description>
 
-    <version>1.1.0</version>
+    <version>1.1.1</version>
 
     <change-notes><![CDATA[
+    <b>1.1.1</b>
+    <ul>
+        <li>Replace free icon licence with paid one
+    </li>
+    </ul>
     <b>1.1.0</b>
     <ul>
         <li>Custom colors for PhpStorm, RubyMine, GoLand, DataGrip, AppCode, CLion, Rider and MPS!</li>
