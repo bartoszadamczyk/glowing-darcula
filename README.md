@@ -4,10 +4,10 @@
 
 Glowing Darcula is a high contrast theme, based on the iconic Darcula theme from JetBrains.
 
-Carefully selected bright colors are working great with darkened backgrounds. Glowing Darcula Theme is excellent for 
-sunny days when you work outside or close to the window. The theme provides a smaller contrast between the dark mode 
-editor and other light windows, outside the IDE. Thoroughly implemented with attention to details provides a stable 
-addition to your favourite IDE. In addition to improving almost every single colour, Glowing Darcula brings beautiful 
+Carefully selected bright colors are working great with darkened backgrounds. Glowing Darcula Theme is excellent for
+sunny days when you work outside or close to the window. The theme provides a smaller contrast between the dark mode
+editor and other light windows, outside the IDE. Thoroughly implemented with attention to details provides a stable
+addition to your favourite IDE. In addition to improving almost every single colour, Glowing Darcula brings beautiful
 blue accents to your Editor Tabs, Progress Bar and Buttons.
 
 ![Screenshot of the editor](screenshots/1_tsx.png)
@@ -85,16 +85,8 @@ blue accents to your Editor Tabs, Progress Bar and Buttons.
 - [Custom Pages](https://plugins.jetbrains.com/docs/marketplace/custom-pages.html)
 - [Embeddable Content](https://plugins.jetbrains.com/docs/marketplace/embeddable-content.html#including-iframe)
 
-
 ## TODO:
 
-- [x] Publish!
-- [x] Upload screenshots
-- [ ] Wait of review
-- [ ] Share with friends
-
-
-- [ ] Make SQL diagrams darker
 - [ ] VCS code colors
 - [ ] Search colors
 - [ ] Console colors
@@ -109,16 +101,16 @@ blue accents to your Editor Tabs, Progress Bar and Buttons.
 
 Copyright (c) 2021 Bartosz Adamczyk
 
-This [repository](https://github.com/bartoszadamczyk/glowing-darcula) and the 
-[plugin](https://plugins.jetbrains.com/plugin/15905-glowing-darcula) 
+This [repository](https://github.com/bartoszadamczyk/glowing-darcula) and the
+[plugin](https://plugins.jetbrains.com/plugin/15905-glowing-darcula)
 is licensed under the [MIT License](LICENSE).
 
 ### HighContrast Theme files
 
 This repository contains a copy of the HighContrast Theme files together with the `LICENSE.txt` file in
-[high-contrast-theme-jetbrains](high-contrast-theme-jetbrains) directory provided by JetBrains in 
+[high-contrast-theme-jetbrains](high-contrast-theme-jetbrains) directory provided by JetBrains in
 [JetBrains/intellij-community repository](https://github.com/JetBrains/intellij-community/tree/master/platform/platform-resources/src/themes)
-originally licensed under the 
+originally licensed under the
 [Apache License 2.0](https://github.com/JetBrains/intellij-community/blob/master/LICENSE.txt).
 
 HighContrast Theme files are used for reference, and they are not a part of the Glowing Darcula Theme Plugin.

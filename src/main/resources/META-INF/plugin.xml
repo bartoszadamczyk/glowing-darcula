@@ -15,9 +15,13 @@
     Icons made by https://www.freepik.com from https://www.flaticon.com
     ]]></description>
 
-    <version>1.0.0</version>
+    <version>1.1.0</version>
 
     <change-notes><![CDATA[
+    <b>1.1.0</b>
+    <ul>
+        <li>Custom colors for PhpStorm, RubyMine, GoLand, DataGrip, AppCode, CLion, Rider and MPS!</li>
+    </ul>
     <b>1.0.0</b>
     <ul>
         <li>First version of the plugin!</li>
