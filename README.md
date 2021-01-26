@@ -114,7 +114,3 @@ originally licensed under the
 [Apache License 2.0](https://github.com/JetBrains/intellij-community/blob/master/LICENSE.txt).
 
 HighContrast Theme files are used for reference, and they are not a part of the Glowing Darcula Theme Plugin.
-
-### Plugin icon
-
-Icons made by [Freepik](https://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com/)
