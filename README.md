@@ -85,18 +85,6 @@ blue accents to your Editor Tabs, Progress Bar and Buttons.
 - [Custom Pages](https://plugins.jetbrains.com/docs/marketplace/custom-pages.html)
 - [Embeddable Content](https://plugins.jetbrains.com/docs/marketplace/embeddable-content.html#including-iframe)
 
-## TODO:
-
-- [ ] VCS code colors
-- [ ] Search colors
-- [ ] Console colors
-- [ ] Different color for HCL Blue?
-- [ ] Glowing Darcula Plus? -> Local JS Variable - Bright Blue
-  ![#66D9EF](https://via.placeholder.com/15/66D9EF/000000?text=+) `#66D9EF`?
-- [ ] Also cool colors from VSCode:
-    - ![#F92672](https://via.placeholder.com/15/F92672/000000?text=+) `#F92672`
-    - ![#AE0E46](https://via.placeholder.com/15/AE0E46/000000?text=+) `#AE0E46`
-
 ## Legal bit
 
 Copyright (c) 2021 Bartosz Adamczyk
