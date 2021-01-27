@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'com.bartoszadamczyk'
-version '1.1.1'
+version '1.1.2'
 
 repositories {
     mavenCentral()
@@ -21,10 +21,14 @@ intellij {
 }
 patchPluginXml {
     changeNotes """
+        <b>1.1.2</b>
+        <ul>
+            <li>Fix change notes</li>
+        </ul>
         <b>1.1.1</b>
         <ul>
-            <li>Replace free icon licence with paid one
-        </li>
+            <li>Replace free icon licence with paid one</li>
+        </ul>
         <b>1.1.0</b>
         <ul>
             <li>Custom colors for PhpStorm, RubyMine, GoLand, DataGrip, AppCode, CLion, Rider and MPS!</li>
