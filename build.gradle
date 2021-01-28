@@ -44,7 +44,7 @@ patchPluginXml {
         </ul>
     """
     sinceBuild '203.0'
-    untilBuild '204.*'
+    untilBuild '211.*'
 }
 
 test {
