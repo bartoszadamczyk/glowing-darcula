@@ -1,3 +1,4 @@
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/15905-glowing-darcula.svg)](https://plugins.jetbrains.com/plugin/15905-glowing-darcula) [![Plugin Version](https://img.shields.io/jetbrains/plugin/v/15905?label=version)](https://plugins.jetbrains.com/plugin/15905-glowing-darcula) [![Download here!](https://img.shields.io/badge/download-here-F18622)](https://plugins.jetbrains.com/plugin/15905-glowing-darcula)
 # Glowing Darcula Theme for JetBrains IDEs
 
 [Download here!](https://plugins.jetbrains.com/plugin/15905-glowing-darcula)
