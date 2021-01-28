@@ -18,34 +18,33 @@ dependencies {
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
     version '2020.3.1'
+    updateSinceUntilBuild = false
 }
 
 patchPluginXml {
     changeNotes """
-        <b>1.1.3</b>
+        <h3>1.1.3</h3>
         <ul>
             <li>Fix new projects actions background color</li>
             <li>Prepare for the next version of the JetBrains IDEs</li>
         </ul>
-        <b>1.1.2</b>
+        <h3>1.1.2</h3>
         <ul>
             <li>Fix change notes</li>
         </ul>
-        <b>1.1.1</b>
+        <h3>1.1.1</h3>
         <ul>
             <li>Replace free icon licence with paid one</li>
         </ul>
-        <b>1.1.0</b>
+        <h3>1.1.0</h3>
         <ul>
             <li>Custom colors for PhpStorm, RubyMine, GoLand, DataGrip, AppCode, CLion, Rider and MPS!</li>
         </ul>
-        <b>1.0.0</b>
+        <h3>1.0.0</h3>
         <ul>
             <li>First version of the Plugin</li>
         </ul>
     """
-    sinceBuild '203.0'
-    untilBuild '211.*'
 }
 
 test {
