@@ -107,7 +107,8 @@
       }
     },
     "WelcomeScreen": {
-      "Projects.selectionInactiveBackground": "#162F5E"
+      "Projects.actions.background": "#1A3A57",
+      "Projects.selectionInactiveBackground": "#1A3A57"
     }
   }
 }
