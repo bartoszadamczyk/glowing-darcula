@@ -1,6 +1,8 @@
 # Glowing Darcula Theme for JetBrains IDEs
 
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/15905-glowing-darcula.svg)](https://plugins.jetbrains.com/plugin/15905-glowing-darcula) [![Plugin Version](https://img.shields.io/jetbrains/plugin/v/15905?label=version)](https://plugins.jetbrains.com/plugin/15905-glowing-darcula) [![Download here!](https://img.shields.io/badge/download-here-F18622)](https://plugins.jetbrains.com/plugin/15905-glowing-darcula)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/15905-glowing-darcula.svg)](https://plugins.jetbrains.com/plugin/15905-glowing-darcula) [![Plugin Version](https://img.shields.io/jetbrains/plugin/v/15905?label=version)](https://plugins.jetbrains.com/plugin/15905-glowing-darcula)
+
+[Download here!](https://plugins.jetbrains.com/plugin/15905-glowing-darcula)
 
 Glowing Darcula is a high contrast theme, based on the iconic Darcula theme from JetBrains.
 
@@ -11,8 +13,6 @@ addition to your favourite IDE. In addition to improving almost every single col
 blue accents to your Editor Tabs, Progress Bar and Buttons.
 
 ![Screenshot of the editor](screenshots/1_tsx.png)
-
-[Download here!](https://plugins.jetbrains.com/plugin/15905-glowing-darcula)
 
 ## Colors
 
