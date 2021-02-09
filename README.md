@@ -1,6 +1,6 @@
 # Glowing Darcula Theme for JetBrains IDEs
 
-![License: MIT](https://img.shields.io/github/license/bartoszadamczyk/glowing-darcula) [![Downloads](https://img.shields.io/jetbrains/plugin/d/15905-glowing-darcula.svg)](https://plugins.jetbrains.com/plugin/15905-glowing-darcula) [![Plugin Version](https://img.shields.io/jetbrains/plugin/v/15905?label=version)](https://plugins.jetbrains.com/plugin/15905-glowing-darcula)
+[![License: MIT](https://img.shields.io/github/license/bartoszadamczyk/glowing-darcula)](https://github.com/bartoszadamczyk/glowing-darcula/blob/main/LICENSE) [![Downloads](https://img.shields.io/jetbrains/plugin/d/15905-glowing-darcula.svg)](https://plugins.jetbrains.com/plugin/15905-glowing-darcula) [![Plugin Version](https://img.shields.io/jetbrains/plugin/v/15905?label=version)](https://plugins.jetbrains.com/plugin/15905-glowing-darcula)
 
 [Download here!](https://plugins.jetbrains.com/plugin/15905-glowing-darcula)
 
