@@ -2,8 +2,8 @@
     <metaInfo>
         <property name="created">2021-01-23T13:22:52</property>
         <property name="ide">idea</property>
-        <property name="ideVersion">2020.3.1.0.0</property>
-        <property name="modified">2021-01-26T13:37:14</property>
+        <property name="ideVersion">2020.3.3.0.0</property>
+        <property name="modified">2021-02-02T16:21:22</property>
         <property name="originalScheme">Glowing Darcula</property>
     </metaInfo>
     <colors>
@@ -711,6 +711,7 @@
                 <option name="FOREGROUND" value="b45dd9" />
             </value>
         </option>
+        <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
         <option name="REGEXP.BRACES">
             <value>
                 <option name="FOREGROUND" value="f0a91d" />
