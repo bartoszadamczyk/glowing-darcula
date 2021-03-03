@@ -43,7 +43,7 @@
       "underlineColor": "#4397E0",
       "inactiveUnderlineColor": "#4397E0",
       "underlinedTabBackground": "#343538",
-      "hoverBackground": "#00000040"
+      "hoverBackground": "#ffffff10"
     },
     "FileColor": {
       "Yellow": "#3D382E",
@@ -60,6 +60,12 @@
       "visitedForeground": "#4397E0",
       "secondaryForeground": "#4397E0"
     },
+
+    "MemoryIndicator": {
+      "usedBackground": "#45484A",
+      "allocatedBackground": "#37393B"
+    },
+
     "Plugins": {
       "lightSelectionBackground": "#36383B"
     },
