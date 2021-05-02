@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'com.bartoszadamczyk'
-version '1.1.5'
+version '1.1.6'
 
 repositories {
     mavenCentral()
@@ -23,6 +23,10 @@ intellij {
 
 patchPluginXml {
     changeNotes """
+        <h3>1.1.6</h3>
+        <ul>
+            <li>Update plugin description</li>
+        </ul>
         <h3>1.1.5</h3>
         <ul>
             <li>Darken memory indicator</li>
