@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'com.bartoszadamczyk'
-version '1.1.6'
+version '1.1.7'
 
 repositories {
     mavenCentral()
@@ -17,12 +17,16 @@ dependencies {
 
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
-    version '2020.3.1'
+    version '2021.2'
     updateSinceUntilBuild = false
 }
 
 patchPluginXml {
     changeNotes """
+        <h3>1.1.7</h3>
+        <ul>
+            <li>Extend compatibility back to 2019.3.1</li>
+        </ul>
         <h3>1.1.6</h3>
         <ul>
             <li>Update plugin description</li>
@@ -62,4 +66,8 @@ patchPluginXml {
 
 test {
     useJUnitPlatform()
+}
+
+runPluginVerifier {
+    ideVersions = ["IC-2021.2", "IC-2019.3.1"]
 }
