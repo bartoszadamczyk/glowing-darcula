@@ -79,11 +79,9 @@ Editor Tabs, Progress Bar and Buttons.
 
 ## Legal bit
 
-Copyright (c) 2021 Bartosz Adamczyk
-
 This [repository](https://github.com/bartoszadamczyk/glowing-darcula) and the
 [plugin](https://plugins.jetbrains.com/plugin/15905-glowing-darcula)
-is licensed under the [MIT License](LICENSE).
+is licensed under the [Apache-2.0 License](LICENSE).
 
 ### HighContrast Theme files
 
@@ -91,6 +89,6 @@ This repository contains a copy of the HighContrast Theme files together with th
 [high-contrast-theme-jetbrains](high-contrast-theme-jetbrains) directory provided by JetBrains in
 [JetBrains/intellij-community repository](https://github.com/JetBrains/intellij-community/tree/master/platform/platform-resources/src/themes)
 originally licensed under the
-[Apache License 2.0](https://github.com/JetBrains/intellij-community/blob/master/LICENSE.txt).
+[Apache-2.0 License](https://github.com/JetBrains/intellij-community/blob/master/LICENSE.txt).
 
 HighContrast Theme files are used for reference, and they are not a part of the Glowing Darcula Theme Plugin.
